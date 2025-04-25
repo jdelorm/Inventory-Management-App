@@ -22,7 +22,7 @@ How to get program to run:
 2. Install Java 8
 3. Install JDK 17
 4. In IntelliJ click "Get from version control"
-5. Paste this URL: [https://github.com/jdelorm/WGUPS-Routing-Program](https://github.com/jdelorm/Inventory-Management-App)
+5. Paste this URL: https://github.com/jdelorm/Inventory-Management-App
 6. Choose where to save the project and click "Clone"
 7. Once the project loads, project should prompt you to download dependencies
 8. Find main.java and open it.
