@@ -32,14 +32,14 @@ Troubleshooting: If having problems running the program ensure that you
 
 Import Maven Dependencies
 
-IntelliJ IDEA should automatically detect the pom.xml file and prompt you to import the Maven project.
-If you don't see the prompt, manually trigger the Maven import:
-Open the Maven window (View -> Tool Windows -> Maven).
-Click the Refresh button (the circular arrow icon) to load the dependencies.
+1. IntelliJ IDEA should automatically detect the pom.xml file and prompt you to import the Maven project.
+2. If you don't see the prompt, manually trigger the Maven import:
+3. Open the Maven window (View -> Tool Windows -> Maven).
+4. Click the Refresh button (the circular arrow icon) to load the dependencies.
 
 Set the JDK Version
 
-Ensure that your project is using JDK 17
-Go to File -> Project Structure:
-Under Project Settings -> Project, make sure Project SDK is set to JDK 17.
-Under Modules, ensure that the language level is also set to 17.
+1. Ensure that your project is using JDK 17
+2. Go to File -> Project Structure:
+3. Under Project Settings -> Project, make sure Project SDK is set to JDK 17.
+4. Under Modules, ensure that the language level is also set to 17.
