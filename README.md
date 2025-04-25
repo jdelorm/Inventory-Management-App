@@ -2,9 +2,9 @@ Title: Inventory Management Application
 
 Purpose: To build a JavaFX-based inventory system that allows users to manage parts and products using a GUI and data models
 
-Author: John DeLorme
+Author: jdelorm
 
-Contact: jdelorm@wgu.edu
+Contact: jdelorm@bot.com
 
 Version: 1.6
 
